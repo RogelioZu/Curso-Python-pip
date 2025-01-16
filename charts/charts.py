@@ -1,8 +1,6 @@
 import matplotlib.pyplot as pylot
 
-
-
-def generarte_pie_chart():
+def generate_pie_chart():
 
     labels = ['A', 'B', 'C']
     values = [100,250,600]
